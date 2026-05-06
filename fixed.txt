@@ -1,0 +1,13 @@
+START
+
+INPUT ("studentName")
+    IF score>=50 THEN
+        OUTPUT "studentName: " + "Result: Pass"
+    ELSE
+        OUTPUT "studentName: " + "Result: Fail"
+    
+    END IF
+        OUTPUT "Thank you for using the portal"
+
+END
+    
